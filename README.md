@@ -80,8 +80,5 @@ Este projeto foi criado para desenvolver habilidades em:
 
 💻 Desenvolvedor em formação, estudando programação e desenvolvimento de software.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/felipiguimaraes/)
-
----
 
 ⭐ Projeto desenvolvido para fins educacionais e prática de programação em Python.
